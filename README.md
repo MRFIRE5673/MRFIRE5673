@@ -2,9 +2,10 @@
 - CS diploma student interested in AI/DS, embedded systems, Linux, and game development<br>
 - Builder of circuits, systems, and chaotic practical stuff<br>
 - Currently working on RP2040 Nano — a compact 4-layer RP2040 development board<br>
-- Learning Python, UE 5, Linux, and AI/DS fundamentals<br>
+- Learning Python, UE5, Linux, and AI/DS fundamentals<br>
 - Interested in embedded systems, optimization, UE5, PC hardware, and creative tech<br>
 - I enjoy learning by building, experimenting, and breaking things professionally<br>
+- I like tinkering with things like Blender, Davinci Resolve and more
 
 
 ## 🌐 Socials:
